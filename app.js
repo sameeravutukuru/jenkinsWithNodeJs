@@ -1,1 +1,1 @@
-console.log("Welcome to jenkins using node")
+console.log("Welcome to jenkins using node");
